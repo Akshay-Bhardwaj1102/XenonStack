@@ -1,4 +1,10 @@
 # XenonStack
+Project Name : Event decoration Management System (Blossom.Inc)
+
+Technologies used:
+Front End: React.Js
+Back End: Springboot
+
 Home Page
 
 ![Screenshot (995)](https://github.com/Akshay-Bhardwaj1102/XenonStack/assets/114404609/a0bb7532-b835-415a-8194-937639d1058f)
@@ -27,6 +33,16 @@ Contact Us Page
 ![Screenshot (1003)](https://github.com/Akshay-Bhardwaj1102/XenonStack/assets/114404609/e81de293-9f67-456f-99ed-c13b7492665a)
 
 Sign-up Page
+
+![Screenshot (1004)](https://github.com/Akshay-Bhardwaj1102/XenonStack/assets/114404609/7031509e-020d-4654-8198-070a4ef91d10)
+
+
+Sign-In Page
+
+![Screenshot (1005)](https://github.com/Akshay-Bhardwaj1102/XenonStack/assets/114404609/e3ac0742-30c9-43f1-80db-0ec585860f74)
+
+
+
 
 
 
